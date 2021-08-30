@@ -1,0 +1,9 @@
+*.bak
+*.tmp
+*.adt
+*.dxf
+*~$*
+src/
+*.log
+*.dwl
+*.dwl2
